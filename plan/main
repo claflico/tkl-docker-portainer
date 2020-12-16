@@ -1,1 +1,5 @@
 #include <turnkey/base>
+
+apt-transport-https
+gnupg-agent
+software-properties-common
